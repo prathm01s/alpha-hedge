@@ -1,0 +1,21 @@
+# Project Alpha-Hedge Dependencies
+
+# Core Math / Data
+numpy
+pandas
+scipy
+
+# Machine Learning
+torch
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+tqdm
+
+# Utilities
+pyarrow  # Required for Pandas Parquet I/O
+fastparquet # Alternative for Parquet support
+tabulate # Required for Pandas markdown tables
